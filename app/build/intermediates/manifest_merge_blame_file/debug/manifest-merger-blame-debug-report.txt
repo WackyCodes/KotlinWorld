@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wackycodes.test.kotlin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:6:5-78
+11-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:6:22-76
+12
+13    <application
+13-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:8:5-36:19
+14        android:allowBackup="true"
+14-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\mobileapp\.gradle\caches\transforms-3\b5f9b856b96829664226d4dbdc9c5a22\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/logo"
+17-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:10:9-36
+18        android:label="@string/app_name"
+18-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/logo_round"
+19-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:12:9-47
+20        android:supportsRtl="true"
+20-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity
+23-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:15:9-23:20
+24            android:name="com.wackycodes.test.kotlin.ActivityMain"
+24-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:16:13-41
+25            android:exported="true" >
+25-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:17:13-36
+26            <intent-filter>
+26-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:18:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:19:17-69
+27-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:19:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:21:17-77
+29-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <receiver
+33-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:25:9-34:20
+34            android:name="com.wackycodes.test.kotlin.util.InternetService"
+34-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:25:19-57
+35            android:enabled="true"
+35-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:27:13-35
+36            android:exported="true" >
+36-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:26:13-36
+37            <intent-filter>
+37-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:28:13-33:29
+38                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+38-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:29:17-30:50
+38-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:29:25-76
+39                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+39-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:31:17-78
+39-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:31:25-75
+40                <action android:name="android.net.wifi.STATE_CHANGE" />
+40-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:32:17-72
+40-->F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:32:25-69
+41            </intent-filter>
+42        </receiver>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+46            android:authorities="com.wackycodes.test.kotlin.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\8423aceeeeb7b7008623f7d8c435e4eb\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\c8f90db82e157d7f3c5debcb17b576c8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\c8f90db82e157d7f3c5debcb17b576c8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\c8f90db82e157d7f3c5debcb17b576c8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+54        </provider>
+55    </application>
+56
+57</manifest>

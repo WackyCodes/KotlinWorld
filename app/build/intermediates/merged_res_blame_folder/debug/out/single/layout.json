@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_dialog_progress.xml",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\layout\\layout_dialog_progress.xml"
+    }
+]

@@ -7,8 +7,8 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.snackbar.Snackbar
+import com.wackycodes.test.kotlin.util.InternetService
 import com.wackycodes.test.kotlin.util.ProgressView
-import com.wackycodes.test.wackykt.InternetService
 
 abstract class ActivityBase : AppCompatActivity(), InternetService.ConnectivityReceiverListener{
 

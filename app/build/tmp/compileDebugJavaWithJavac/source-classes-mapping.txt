@@ -1,0 +1,8 @@
+com/wackycodes/test/kotlin/BuildConfig.java
+ com.wackycodes.test.kotlin.BuildConfig
+com/wackycodes/test/kotlin/databinding/ActivityMainBinding.java
+ com.wackycodes.test.kotlin.databinding.ActivityMainBinding
+com/wackycodes/test/kotlin/DataBindingTriggerClass.java
+ com.wackycodes.test.kotlin.DataBindingTriggerClass
+com/wackycodes/test/kotlin/databinding/LayoutDialogProgressBinding.java
+ com.wackycodes.test.kotlin.databinding.LayoutDialogProgressBinding

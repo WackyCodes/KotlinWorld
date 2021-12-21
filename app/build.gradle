@@ -27,13 +27,13 @@ android {
         //noinspection DataBindingWithoutKapt
         dataBinding true
     }
-
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
+//
+//    compileOptions {
+//        sourceCompatibility JavaVersion.VERSION_1_8
+//        targetCompatibility JavaVersion.VERSION_1_8
+//    }
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = '11.0.12'
     }
 }
 
@@ -47,6 +47,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
-    implementation project(path: ':wackykt')
+//    implementation project(path: ':wackykt')
+
+    // Internet Continue Checking Library from WackyCodes.
+//    implementation 'com.github.WackyCodes:wackykt:v1.0.1'
 
 }
