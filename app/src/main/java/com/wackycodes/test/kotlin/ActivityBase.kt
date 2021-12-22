@@ -47,6 +47,7 @@ abstract class ActivityBase : AppCompatActivity(), InternetService.ConnectivityR
 
     override fun onResume() {
         super.onResume()
+
         registerReceiver( connectionListener, IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION))
         InternetService.connectivityReceiverListener = this
     }
