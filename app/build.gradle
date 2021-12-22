@@ -33,7 +33,7 @@ android {
     }
 
     kotlinOptions {
-        jvmTarget = '11.0.12'
+        jvmTarget = '11'
     }
 }
 
@@ -48,5 +48,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 //    implementation project(path: ':wackykt')
+//    implementation 'com.github.WackyCodes:AndroidHelper:2021.12.15'
 
 }

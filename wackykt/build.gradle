@@ -33,7 +33,7 @@ android {
         targetCompatibility targetCompatibility
     }
     kotlinOptions {
-        jvmTarget = '11.0.12'
+        jvmTarget = '11'
     }
 }
 
