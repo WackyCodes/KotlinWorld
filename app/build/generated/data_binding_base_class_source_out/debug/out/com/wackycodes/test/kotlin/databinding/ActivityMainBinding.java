@@ -16,14 +16,18 @@ import java.lang.Object;
 
 public abstract class ActivityMainBinding extends ViewDataBinding {
   @NonNull
+  public final Button buttonPayment;
+
+  @NonNull
   public final Button buttonShowDialog;
 
   @NonNull
   public final TextView textViewAlert;
 
   protected ActivityMainBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      Button buttonShowDialog, TextView textViewAlert) {
+      Button buttonPayment, Button buttonShowDialog, TextView textViewAlert) {
     super(_bindingComponent, _root, _localFieldCount);
+    this.buttonPayment = buttonPayment;
     this.buttonShowDialog = buttonShowDialog;
     this.textViewAlert = textViewAlert;
   }

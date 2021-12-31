@@ -1,35 +1,11 @@
 [
     {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logo_foreground.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
-    },
-    {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logo.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
-    },
-    {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logo_round.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
-    },
-    {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
-    },
-    {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_logo_round.png.flat",
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
-    },
-    {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logo.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
-    },
-    {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_logo_foreground.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
     },
     {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logo_foreground.png.flat",
@@ -56,6 +32,54 @@
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
     },
     {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo_round.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_failed.xml.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\drawable\\ic_failed.xml"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_success.xml.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\drawable\\ic_success.xml"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_logo_foreground.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_custome_progress.xml.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\drawable\\custome_progress.xml"
+    },
+    {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo_foreground.png.flat",
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-hdpi\\logo_foreground.png"
     },
@@ -64,23 +88,19 @@
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
     },
     {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logo.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
-    },
-    {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logo_round.png.flat",
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
     },
     {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_2.png.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\drawable\\logo_2.png"
+    },
+    {
+        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upi_payment.xml.flat",
+        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\layout\\activity_upi_payment.xml"
     },
     {
         "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_dialog_progress.xml.flat",
         "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\layout\\layout_dialog_progress.xml"
-    },
-    {
-        "merged": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_logo_round.png.flat",
-        "source": "F:\\Shailendra CRISP\\Android Projects\\TestKotlin\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
     }
 ]

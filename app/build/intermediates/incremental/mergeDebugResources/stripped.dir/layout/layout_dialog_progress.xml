@@ -12,13 +12,15 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="8dp"
-        android:background="@color/colorFadedWhite"
+        android:background="@color/colorAccent"
         android:layout_gravity="center" android:tag="layout/layout_dialog_progress_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
 
         <ProgressBar
             android:id="@+id/progressBar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleLarge"
+            android:indeterminateDrawable="@drawable/custome_progress"/>
 
         <TextView
             android:layout_width="wrap_content"

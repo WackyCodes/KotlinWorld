@@ -1,12 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\918d0fed427dcba8da22ee36a4eff4aa\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-ktx:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\a03ea98e69bf441811f31a72acda97a0\transformed\jetified-databinding-ktx-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\59c50629d5863bf740181c9f13b7753c\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [:WackyKt] F:\Shailendra CRISP\Android Projects\TestKotlin\WackyKt\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\mobileapp\.gradle\caches\transforms-3\9516af06ee10aa5829766110b9d5fbd4\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\acba0e28083edb503a8ab44d784c3a42\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\mobileapp\.gradle\caches\transforms-3\12c7ab621ed461d9c3d2fde724102910\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -51,31 +53,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mobileapp\.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\62445dc9531399528fc2c9cc82c426ed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\fb1c5900d8d1810872702415d38d774a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mobileapp\.gradle\caches\transforms-3\94c7102356f0ba972a76f76ac7e6a02a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:4:5-41
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:6:5-78
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:WackyKt] F:\Shailendra CRISP\Android Projects\TestKotlin\WackyKt\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:WackyKt] F:\Shailendra CRISP\Android Projects\TestKotlin\WackyKt\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
 	android:name
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:8:5-36:19
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:8:5-40:19
+MERGED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-11:19
+MERGED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-11:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\acba0e28083edb503a8ab44d784c3a42\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\acba0e28083edb503a8ab44d784c3a42\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\mobileapp\.gradle\caches\transforms-3\12c7ab621ed461d9c3d2fde724102910\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -106,46 +112,52 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mobileapp\.gradle\
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.wackycodes.test.kotlin.payment.ActivityUpiPayment
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:16:13-55
 activity#com.wackycodes.test.kotlin.ActivityMain
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:exported
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:24:27-74
 receiver#com.wackycodes.test.kotlin.util.InternetService
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:25:9-34:20
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:28:9-39:20
 	android:enabled
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:27:13-35
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:30:13-35
 	android:exported
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:25:19-57
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:29:13-49
 intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.STATE_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:28:13-33:29
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:32:13-38:29
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:29:17-30:50
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:33:17-35:50
 	tools:ignore
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:30:21-47
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:35:21-47
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:29:25-76
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:34:21-72
 action#android.net.wifi.WIFI_STATE_CHANGED
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:31:17-78
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:36:17-78
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:31:25-75
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:36:25-75
 action#android.net.wifi.STATE_CHANGE
-ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:32:17-72
+ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:37:17-72
 	android:name
-		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:32:25-69
+		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml:37:25-69
 uses-sdk
 INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
@@ -156,6 +168,10 @@ MERGED from [androidx.databinding:databinding-ktx:7.0.4] C:\Users\mobileapp\.gra
 MERGED from [androidx.databinding:databinding-ktx:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\a03ea98e69bf441811f31a72acda97a0\transformed\jetified-databinding-ktx-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\59c50629d5863bf740181c9f13b7753c\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\mobileapp\.gradle\caches\transforms-3\59c50629d5863bf740181c9f13b7753c\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [:WackyKt] F:\Shailendra CRISP\Android Projects\TestKotlin\WackyKt\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:WackyKt] F:\Shailendra CRISP\Android Projects\TestKotlin\WackyKt\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\mobileapp\.gradle\caches\transforms-3\9516af06ee10aa5829766110b9d5fbd4\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\mobileapp\.gradle\caches\transforms-3\9516af06ee10aa5829766110b9d5fbd4\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\acba0e28083edb503a8ab44d784c3a42\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
@@ -254,6 +270,10 @@ INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\Andro
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 		ADDED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Shailendra CRISP\Android Projects\TestKotlin\app\src\main\AndroidManifest.xml
+activity#com.wackycodes.upipayment.PaymentUiActivity
+ADDED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-80
+	android:name
+		ADDED from [:UpiPayment] F:\Shailendra CRISP\Android Projects\TestKotlin\UpiPayment\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:19-77
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\mobileapp\.gradle\caches\transforms-3\232ab23424b97ab39d11043d4779148e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mobileapp\.gradle\caches\transforms-3\b150c5e5692253412677680cdf1fa54e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

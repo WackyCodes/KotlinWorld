@@ -1,5 +1,6 @@
 package com.wackycodes.test.kotlin.util
 
+import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
@@ -21,6 +22,7 @@ class InternetService : BroadcastReceiver() {
         connectivityReceiverListener?.onNetworkConnectionChanged( getConnectionState(context) )
     }
 
+    @SuppressLint("MissingPermission")
     private fun getConnectionState(context: Context?): Boolean {
         if ( context == null ) return false
 

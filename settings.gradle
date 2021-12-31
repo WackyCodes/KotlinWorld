@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "Kotlin World"
 include ':app'
 include ':WackyKt'
+include ':UpiPayment'

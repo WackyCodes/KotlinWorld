@@ -18,7 +18,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wackycodes.test.kotlin.payment.ActivityUpiPayment"
+            android:exported="false" />
         <activity
             android:name="com.wackycodes.test.kotlin.ActivityMain"
             android:exported="true" >
@@ -39,6 +43,8 @@
                 <action android:name="android.net.wifi.STATE_CHANGE" />
             </intent-filter>
         </receiver>
+
+        <activity android:name="com.wackycodes.upipayment.PaymentUiActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
